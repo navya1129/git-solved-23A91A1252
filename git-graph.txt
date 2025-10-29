@@ -1,0 +1,25 @@
+* bc0787d (HEAD -> main, origin/main, origin/HEAD) docs:Add changelog
+* c08302d docs: Update README
+* 8378932 Create GIT_JOURNEY.md
+| * 8507894 (tag: v1.0.0) docs: Update README
+|/  
+| * cbc7dba (origin/feature/another-feature) Revert "merge: Resolve conflicts between main and dev"
+|/  
+* ca2a529 save current work before cherry-pick
+| *-.   25bd0d4 (refs/stash) WIP on feature/another-feature: f73808b Revert "merge: Resolve conflicts between main and dev"
+| |\ \  
+| | | * be10a0a untracked files on feature/another-feature: f73808b Revert "merge: Resolve conflicts between main and dev"
+| | * 7c480b5 index on feature/another-feature: f73808b Revert "merge: Resolve conflicts between main and dev"
+| |/  
+| * f73808b Revert "merge: Resolve conflicts between main and dev"
+|/  
+*   d4a5ae6 (feature/new-feature, feature/another-feature) merge: Resolve conflicts between main and dev
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 2498e7d (dev) Added phase2 changes in dev branch
+* | 0312c6f (origin/dev, instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
