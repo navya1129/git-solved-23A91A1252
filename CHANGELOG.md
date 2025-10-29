@@ -1,0 +1,8 @@
+- 8507894: docs: Update README (Navya Rayi, 18 hours ago)
+- ca2a529: save current work before cherry-pick (Navya Rayi, 2 days ago)
+- d4a5ae6: merge: Resolve conflicts between main and dev (Navya Rayi, 2 days ago)
+- 2498e7d: Added phase2 changes in dev branch (Navya Rayi, 2 days ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 6 days ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
